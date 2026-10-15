@@ -8,7 +8,7 @@
 
 需要 **Apple 芯片 Mac（M1 或更新）和 macOS 15 或更新版本**，不支持 Intel Mac。
 
-正式安装包准备完成后将出现在 [Releases](https://github.com/hjq1219/glimpse-releases/releases)。打开 DMG，将 Glimpse 拖到 Applications，推出磁盘后从“应用程序”启动。
+当前版本：[下载 Glimpse 0.11.0](https://github.com/hjq1219/glimpse-releases/releases/download/v0.11.0/Glimpse-0.11.0-arm64.dmg)，或查看 [Releases](https://github.com/hjq1219/glimpse-releases/releases)。应用及 DMG 已通过 Developer ID 签名和 Apple 公证。打开 DMG，将 Glimpse 拖到 Applications，推出磁盘后从“应用程序”启动。
 
 首次运行按系统提示下载英文和简体中文翻译语言包；首次截图允许屏幕录制。截图和译文不建立历史记录。临时截图读入内存后尝试删除，强制结束或删除失败可能留下临时文件。
 

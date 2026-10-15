@@ -1,0 +1,24 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Glimpse</title>
+        <item>
+            <title>0.11.0</title>
+            <pubDate>Thu, 15 Oct 2026 16:19:58 +0800</pubDate>
+            <link>https://github.com/hjq1219/glimpse-releases</link>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Glimpse 0.11.0</h2>
+<ul>
+<li>加入菜单栏“检查更新…”入口，确认后下载并安装新版本。</li>
+<li>使用 Developer ID 正式签名和 Apple 公证，更新包经过独立签名校验。</li>
+<li>保留系统翻译、中英文 OCR、自定义快捷键、字号与液态玻璃界面。</li>
+</ul>
+<p>需要 Apple 芯片 Mac 和 macOS 15 或更新版本。从此前临时签名版本迁移时，可能需要重新授权一次屏幕录制。</p>
+]]></description>
+            <enclosure url="https://github.com/hjq1219/glimpse-releases/releases/download/v0.11.0/Glimpse-0.11.0-arm64.dmg" length="2854027" type="application/octet-stream" sparkle:edSignature="MlOwbjHX6YYjsLIZHJvI8c/fohi4ogaFMC7q4jxYqdkUMXypskCck1pGY1n3SQBbByODgggagHPmTCQgVGhKCw=="/>
+        </item>
+    </channel>
+</rss>
