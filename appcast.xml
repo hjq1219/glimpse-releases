@@ -3,6 +3,24 @@
     <channel>
         <title>Glimpse</title>
         <item>
+            <title>0.11.1</title>
+            <pubDate>Thu, 15 Oct 2026 16:37:50 +0800</pubDate>
+            <link>https://github.com/hjq1219/glimpse-releases</link>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<h2>Glimpse 0.11.1</h2>
+<p>本版本用于验证应用内更新流程，翻译功能和界面与 0.11.0 保持一致。</p>
+<ul>
+<li>通过“检查更新…”下载安装后，应用将重新启动。</li>
+<li>沿用相同的开发者签名、应用标识和更新公钥。</li>
+</ul>
+<p>更新后请按原来的截图快捷键，确认截图翻译、录屏权限和个人设置正常。</p>
+]]></description>
+            <enclosure url="https://github.com/hjq1219/glimpse-releases/releases/download/v0.11.1/Glimpse-0.11.1-arm64.dmg" length="2854046" type="application/octet-stream" sparkle:edSignature="HEnes6bavF5qPheH4Vy54HoYEhVTgERtDATJP+XfRJTPP6MmG/oC87f60jOPW7oUZ+y/9phAx92WAQQUnW56CA=="/>
+        </item>
+        <item>
             <title>0.11.0</title>
             <pubDate>Thu, 15 Oct 2026 16:19:58 +0800</pubDate>
             <link>https://github.com/hjq1219/glimpse-releases</link>
